@@ -1,6 +1,7 @@
 # 🚀 Face recognition attendance system
 
-fully made with python .
+fully made with python.
+## THE OTHER REPOSITORY https://github.com/sarthak-cs/face-attendance IS SUBPART OF THIS ACTUAL PROJECT THAT I MADE FROM MY SIDE.
 
 
 ---
@@ -21,7 +22,7 @@ Feature 3: free-usage.
  1. Clone the Repository
     
 ```
-https://github.com/Klaus10101/Face-recognition-attendance.git 
+https://github.com/sarthak-cs/Face-recognition-attendance.git
 ```
 2. Change directory 
 ```
@@ -69,12 +70,14 @@ This project is licensed under the Apache license2.0 .
 
 # 👥👥 authors :-
 
+SARTHAK TYAGI
+
 RAVIYANSH GUJJAR (aka Klaus10101)
 
 ROHAN GUPTA (GROUP X42)
 
-SARTHAK TYAGI
-
 UTTKARSH JAIN
+
+---
 
 
